@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(220, 220, 220);
+}
+
+.Menu {
+    background: white;
+    box-shadow: 0 0 10px #000000;
+}
+
+.Menu button {
+    background-color: white;
+    border: none;
+    transition: 0.2s
+}
+
+.Menu button:hover {
+    background-color: white;
+    border: none;
+    box-shadow: 0 3px rgb(8, 0, 126);
+    transition: 0.2s
+}
