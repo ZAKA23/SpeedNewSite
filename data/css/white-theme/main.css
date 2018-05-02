@@ -19,3 +19,11 @@ body {
     box-shadow: 0 3px rgb(8, 0, 126);
     transition: 0.2s
 }
+
+.Floor-1 {
+    background-color: rgb(233, 233, 233);
+}
+
+.Floor-1 iframe {
+    margin: 10px;
+}
