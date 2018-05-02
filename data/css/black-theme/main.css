@@ -6,7 +6,6 @@ body {
 .Menu {
     color: rgb(255, 255, 255);
     background: rgb(0, 0, 0);
-    box-shadow: 0 0 10px #6d6d6d;
 }
 
 .Menu button {
@@ -22,4 +21,12 @@ body {
     border: none;
     box-shadow: 0 3px rgb(194, 0, 0);
     transition: 0.2s
+}
+
+.Floor-1 {
+    background-color: rgb(97, 97, 97);
+}
+
+.Floor-1 iframe {
+    margin: 10px;
 }
